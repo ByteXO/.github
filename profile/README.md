@@ -15,4 +15,5 @@ Make suggestions in discussions tab.
 
 - Nerdy Bot for Discord
 - Maintainer Bot for Discord
--->
+- 521 Bot for Discord
+- Bimo (Next-gen social media)
