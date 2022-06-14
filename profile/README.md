@@ -1,11 +1,11 @@
 ## We are Byte X ! 👋
 
 
-**🙋‍♀️ About us **
+**🙋‍♀️ About us**
 
 We are a company that mainly specializes in making discord bots but we will expand in to other things as well
 
-**🌈 Get Involved **
+**🌈 Get Involved**
 
 Make suggestions in discussions tab. 
 
