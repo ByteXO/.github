@@ -11,7 +11,7 @@ Go to our website http://bytexo.github.io/ to get more info on us
 
 **👨‍💼 Our current projects**
 
-- Nerdy Bot for Discord
+- Ilmo Bot for Discord (in collaboration wiht The Ilm Foundation)
 - Maintainer Bot for Discord
 - 521 Bot for Discord
 - Bimo (Next-gen social media)
