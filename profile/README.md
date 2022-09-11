@@ -15,6 +15,8 @@ Go to our website http://bytexo.github.io/ to get more info on us
 
 **👨‍💼 Our current projects**
 
-- Ilmo Bot for Discord (in collaboration wiht The Ilm Foundation)
+- Ilmo Bot for Discord (in collaboration with The Ilm Foundation)
 - 521 Bot for Discord
-- Bimo (Next-gen social media)
+- Xamer Studios (Gaming website)
+- Byte Sounds
+- 
