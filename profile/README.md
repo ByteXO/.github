@@ -19,4 +19,5 @@ Go to our website http://bytexo.github.io/ to get more info on us
 - 521 Bot for Discord
 - Xamer Studios (Gaming website)
 - Byte Sounds
-- 
+- Byte Services
+-
